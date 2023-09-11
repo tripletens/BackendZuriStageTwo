@@ -45,7 +45,7 @@ class PersonControllerTest extends TestCase
     {
         $persons = Person::factory()->count(3)->create(); // Create multiple persons
 
-        $response = $this->json('GET', '/api'); 
+        $response = $this->json('GET', '/api');
 
         $response->assertStatus(200)
             ->assertJsonStructure([

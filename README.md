@@ -107,6 +107,9 @@ If you'd like to contribute to this project, please follow these guidelines:
 - Push your changes to your fork.
 - Create a pull request.
 
+## Postman Documentation
+https://documenter.getpostman.com/view/21370111/2s9YC2ytRh
+
 ## License
 This project is open-source and available under the MIT License.
 
